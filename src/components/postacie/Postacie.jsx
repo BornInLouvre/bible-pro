@@ -28,7 +28,7 @@ const Postacie = () => {
 					className="people-column"
 					style={{ background: "#FAEBD7" }}
 					onClick={() => openTab("b1")}>
-					<h2>Abraham</h2>
+					<h2>Abraham Sztos</h2>
 					<img src={Abraham} alt="Abraham"/>
 				</div>
 
