@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bible-pro/static/css/main.4438aaac.css",
+    "main.js": "/bible-pro/static/js/main.afa9d34a.js",
+    "static/js/592.2450cc47.chunk.js": "/bible-pro/static/js/592.2450cc47.chunk.js",
+    "static/media/Daniellions.jpg": "/bible-pro/static/media/Daniellions.bffbd5f0f8ace5babada.jpg",
+    "static/media/Daniel.jpg": "/bible-pro/static/media/Daniel.1dc34aa6aa0a9ad1f480.jpg",
+    "static/media/Abraham.jpg": "/bible-pro/static/media/Abraham.826c7a06fc269930672b.jpg",
+    "static/media/babylon.jpg": "/bible-pro/static/media/babylon.f2dd55ec9f40dcbeb648.jpg",
+    "static/media/Peter.jpg": "/bible-pro/static/media/Peter.d13d38c0d21e9c7a7af1.jpg",
+    "static/media/tlonastrone.jpg": "/bible-pro/static/media/tlonastrone.7b122e363cf325c6c1e1.jpg",
+    "static/media/chleb.jpg": "/bible-pro/static/media/chleb.1631044282151a9b59d3.jpg",
+    "static/media/zbroja.jpg": "/bible-pro/static/media/zbroja.08d043bb8f6e9bf90a00.jpg",
+    "static/media/tecza.jpg": "/bible-pro/static/media/tecza.e24699a06904b60907b3.jpg",
+    "static/media/youngman.jpg": "/bible-pro/static/media/youngman.11bf40ebb6051c6fbab8.jpg",
+    "index.html": "/bible-pro/index.html",
+    "main.4438aaac.css.map": "/bible-pro/static/css/main.4438aaac.css.map",
+    "main.afa9d34a.js.map": "/bible-pro/static/js/main.afa9d34a.js.map",
+    "592.2450cc47.chunk.js.map": "/bible-pro/static/js/592.2450cc47.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4438aaac.css",
+    "static/js/main.afa9d34a.js"
+  ]
+}
